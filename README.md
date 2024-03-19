@@ -1,4 +1,4 @@
-**Project Title: Pizza Sales Analysis**
+# Pizza Sales Analysis
 
 **Overview:**
 This repository contains analysis conducted using Power BI dashboard on pizza sales data. Explore total revenue, hourly sales distribution, quarterly growth trends, and pizza sales distribution insights.
