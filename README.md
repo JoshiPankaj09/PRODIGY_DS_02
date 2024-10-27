@@ -3,6 +3,17 @@
 **Overview:**
 This repository contains analysis conducted using Power BI dashboard on pizza sales data. Explore total revenue, hourly sales distribution, quarterly growth trends, and pizza sales distribution insights.
 
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-19%20115958.png?raw=true)
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-19%20120620.png?raw=true)
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-19%20120720.png?raw=true)
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-19%20120748.png?raw=true)
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-19%20120819.png?raw=true)
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-19%20120854.png?raw=true)
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-19%20120929.png?raw=true)
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-19%20121115.png?raw=true)
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-30%20171032.png?raw=true)
+![Project Screenshot](https://github.com/JoshiPankaj09/IMAGES/blob/main/Screenshot%202024-03-30%20171055.png?raw=true)
+
 **Tools Used:**
 1. **Power BI:** 
    - Power BI for analysis and creating dashboard.
